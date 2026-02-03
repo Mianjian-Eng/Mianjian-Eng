@@ -17,7 +17,7 @@ I use this repository to share data analysis scripts, simulation codes, and supp
 
 #### Computational Tools
 * **Python:** Data visualization, kinetic modeling, and isotherm calculations (Pandas, Matplotlib).
-* **Data Analysis:** Processing experimental data from HPLC/GC and electrochemical workstations.
+* **Data Analysis:** Processing experimental data.
 
 ---
 
