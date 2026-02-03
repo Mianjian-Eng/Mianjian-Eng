@@ -1,16 +1,25 @@
-## Hi there 👋
+### Research Portfolio | Chemical Engineering
 
-<!--
-**Mianjian-Eng/Mianjian-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. in Chemical Engineering (Environmental Engineering)**
+Researcher in Water Treatment & Electrochemical Processes.
 
-Here are some ideas to get you started:
+I use this repository to share data analysis scripts, simulation codes, and supplementary materials related to my academic research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧪 Current Projects
+1.  **Bio-waste Valorization:** Synthesis of hydrochar from banana peel for dye and pharmaceutical pollutant removal.
+2.  **Electrochemistry:** Investigation of capacitive deionization (CDI) performance for water desalination using porous carbon electrodes.
+3.  **Process Optimization:** Applying statistical methods to optimize adsorption parameters and kinetic studies.
+
+#### 🔬 Research Focus
+* **Capacitive Deionization (CDI):** Electrode synthesis and system design.
+* **Adsorption:** Removal of emerging contaminants from aqueous solutions.
+* **Material Science:** Synthesis and characterization of eco-friendly carbon materials.
+
+#### 💻 Computational Tools
+* **Python:** Data visualization, kinetic modeling, and isotherm calculations (Pandas, Matplotlib).
+* **Data Analysis:** Processing experimental data from HPLC/GC and electrochemical workstations.
+
+---
+*Open to PhD opportunities in Environmental Engineering and Separation Processes.*
+
+**[My ResearchGate Profile](https://www.researchgate.net/profile/Fatemeh-Mianjian)**
