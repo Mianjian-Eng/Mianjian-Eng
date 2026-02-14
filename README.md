@@ -3,21 +3,36 @@
 **M.Sc. in Chemical Engineering (Environmental Engineering)**
 Researcher in Water Treatment & Electrochemical Processes.
 
-I use this repository to share data analysis scripts, simulation codes, and supplementary materials related to my academic research.
+## Professional Summary
+I am a Chemical Engineering graduate with a solid foundation in experimental water treatment and a growing interest in computational and data-driven methods. My primary research focuses on synthesizing sustainable materials for environmental remediation. I use this repository to document my foundational coding projects, basic atomistic simulations, and data analysis workflows that complement my laboratory research.
 
-#### Current Projects
-1.  **Bio-waste Valorization:** Synthesis of hydrochar from banana peel for dye and pharmaceutical pollutant removal.
-2.  **Electrochemistry:** Investigation of capacitive deionization (CDI) performance for water desalination using porous carbon electrodes.
-3.  **Process Optimization:** Applying statistical methods to optimize adsorption parameters and kinetic studies.
+---
 
-#### Research Focus
-* **Capacitive Deionization (CDI):** Electrode synthesis and system design.
-* **Adsorption:** Removal of emerging contaminants from aqueous solutions.
-* **Material Science:** Synthesis and characterization of eco-friendly carbon materials.
+## Research Projects & Repositories
 
-#### Computational Tools
-* **Python:** Data visualization, kinetic modeling, and isotherm calculations (Pandas, Matplotlib).
-* **Data Analysis:** Processing experimental data.
+**1. [Exploratory Machine Learning for CDI](#)** *(Insert Link)*
+* **Description:** A proof-of-concept project utilizing Random Forest regression on a small, manually curated literature dataset. The goal was to extract basic feature importance regarding the textural properties (surface area, pore volume) of bio-waste-derived carbon electrodes and their effect on electrosorption capacity.
+
+**2. [Foundational DFT Study: Na-Adsorption on Graphene](#)** *(Insert Link)*
+* **Description:** Conducted baseline geometry optimization and SCF convergence tests for sodium ion adsorption on a pristine graphene monolayer using Quantum ESPRESSO. This self-driven project served as an introduction to first-principles simulations to better understand ion-electrode interactions at the atomic scale.
+
+**3. Experimental Study: Bio-Waste Valorization**
+* **Description:** Synthesized and evaluated hydrochar and biochar derived from agricultural wastes. The research involved conducting kinetic and isotherm studies for the removal of ions and emerging contaminants, such as dyes and pharmaceutical pollutants, from aqueous solutions.
+
+---
+
+## Core Research Interests
+* **Water Treatment Technologies:** Capacitive Deionization (CDI) and conventional adsorption processes.
+* **Sustainable Materials:** Synthesis and characterization of porous, eco-friendly carbon electrodes.
+* **Process Modeling:** Combining experimental kinetic/isotherm data with basic computational tools to understand adsorption mechanisms.
+
+---
+
+## Technical Skills
+* **Experimental:** Synthesis of carbon materials, adsorption experimental design, data processing.
+* **Basic Computational Tools:** Quantum ESPRESSO, VESTA (Familiar with standard geometry relaxation and SCF inputs).
+* **Programming & Data Analysis:** Python (Pandas, Matplotlib, introductory Scikit-Learn), OriginLab.
+* **Academic Writing:** Zotero, literature review synthesis.
 
 ---
 
