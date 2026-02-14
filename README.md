@@ -10,7 +10,7 @@ I am a Chemical Engineering graduate with a solid foundation in experimental wat
 
 ## Research Projects & Repositories
 
-**1. [Exploratory Machine Learning for CDI](#)** *((https://github.com/Mianjian-Eng/cdi-biocarbon-ml))*
+**1. [Machine Learning for Capacitive Deionization (CDI)](https://github.com/Mianjian-Eng/cdi-biocarbon-ml)**
 * **Description:** A proof-of-concept project utilizing Random Forest regression on a small, manually curated literature dataset. The goal was to extract basic feature importance regarding the textural properties (surface area, pore volume) of bio-waste-derived carbon electrodes and their effect on electrosorption capacity.
 
 **2. [Foundational DFT Study: Na-Adsorption on Graphene](#)** *(https://github.com/Mianjian-Eng/dft-na-graphene-adsorption)*
@@ -18,6 +18,9 @@ I am a Chemical Engineering graduate with a solid foundation in experimental wat
 
 **3. Experimental Study: Bio-Waste Valorization**
 * **Description:** Synthesized and evaluated hydrochar and biochar derived from agricultural wastes. The research involved conducting kinetic and isotherm studies for the removal of ions and emerging contaminants, such as dyes and pharmaceutical pollutants, from aqueous solutions.
+
+**4. Mathematical Modeling of CDI & Adsorption KineticsDescription**
+* **Description:** Developed and applied mathematical models to evaluate the electrochemical performance of CDI cells, specifically focusing on Charge Efficiency ($\Lambda$) and Effective Resistance ($R_{eff}$). Additionally, performed detailed kinetic and isotherm modeling for the removal of Malachite Green and other organic pollutants to interpret the mass transfer mechanisms.
 
 ---
 
