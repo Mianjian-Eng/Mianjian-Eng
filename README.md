@@ -27,7 +27,6 @@ I am a Chemical Engineering graduate with a solid foundation in experimental wat
 * **Water Treatment Technologies:** Capacitive Deionization (CDI) and conventional adsorption processes.
 * **Sustainable Materials:** Synthesis and characterization of porous, eco-friendly carbon electrodes.
 * **Process Modeling:** Combining experimental kinetic/isotherm data with basic computational tools to understand adsorption mechanisms.
-
 ---
 
 ## Technical Skills
