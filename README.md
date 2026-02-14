@@ -1,7 +1,6 @@
 ### Research Portfolio | Chemical Engineering
 
 **M.Sc. in Chemical Engineering (Environmental Engineering)**
-Researcher in Water Treatment & Electrochemical Processes.
 
 ## Professional Summary
 I am a Chemical Engineering graduate with a solid foundation in experimental water treatment and a growing interest in computational and data-driven methods. My primary research focuses on synthesizing sustainable materials for environmental remediation. I use this repository to document my foundational coding projects, basic atomistic simulations, and data analysis workflows that complement my laboratory research.
