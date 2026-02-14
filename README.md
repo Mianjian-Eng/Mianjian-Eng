@@ -10,10 +10,10 @@ I am a Chemical Engineering graduate with a solid foundation in experimental wat
 
 ## Research Projects & Repositories
 
-**1. [Exploratory Machine Learning for CDI](#)** *(Insert Link)*
+**1. [Exploratory Machine Learning for CDI](#)** *(https://github.com/Mianjian-Eng/cdi-biocarbon-ml)*
 * **Description:** A proof-of-concept project utilizing Random Forest regression on a small, manually curated literature dataset. The goal was to extract basic feature importance regarding the textural properties (surface area, pore volume) of bio-waste-derived carbon electrodes and their effect on electrosorption capacity.
 
-**2. [Foundational DFT Study: Na-Adsorption on Graphene](#)** *(Insert Link)*
+**2. [Foundational DFT Study: Na-Adsorption on Graphene](#)** *(https://github.com/Mianjian-Eng/dft-na-graphene-adsorption)*
 * **Description:** Conducted baseline geometry optimization and SCF convergence tests for sodium ion adsorption on a pristine graphene monolayer using Quantum ESPRESSO. This self-driven project served as an introduction to first-principles simulations to better understand ion-electrode interactions at the atomic scale.
 
 **3. Experimental Study: Bio-Waste Valorization**
